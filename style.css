@@ -56,14 +56,14 @@ body {
 .main-title {
     font-size: 48px;
     font-family: "Merriweather", serif;
-    font-weight: 900;
+    font-weight: 800;
     font-style: italic;
     color: var(--color-white);
 }
 
 .section-title {
     font-family: "Inter", serif;
-    font-size: 36px;
+    font-size: 27px;
     font-weight: 700;
     color: var(--color-primary);
     margin: 10px 0;
@@ -147,10 +147,10 @@ ul {
     display: flex;
     align-items: center;
     width: 100%;
-    padding: 10px 40px;
+    padding: 10px 50px;
     color: var(--color-white);
     background-color: var(--color-button);
-    font-size: 16px;
+    font-size: 32px;
 }
 
 .button-draw img {
