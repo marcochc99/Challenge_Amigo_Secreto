@@ -2,7 +2,7 @@
 
 Esta es una aplicación que permite ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el Amigo Secreto.
 
-![alt text](image.png)
+![alt text](./assets/image.png)
 
 ## Funcionalidades ⚙️
 
